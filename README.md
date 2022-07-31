@@ -1,2 +1,2 @@
-# Yandex.Practicum_data_analys_cource
+# Yandex.Practicum_data_analysis_cource
 learning projects
