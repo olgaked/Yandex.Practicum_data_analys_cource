@@ -1,3 +1,6 @@
+# Yandex.Practicum_data_analysis_cource
+learning projects carried out by Olga Yakel during the Yandex.Practum data analyst course.
+
 Источник данных
 источник - csv файлы, содержащие:
 - информацию о совершенных действиях абонентами в течении перида (дата и длительность звонка, дата и объем потребленного трафика, дата отправленных смс)
